@@ -3,7 +3,7 @@
 Introduction to deep learning based on Google's TensorFlow framework.  A fork of [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) being updated with TensorFlow 2.0 and Keras.
 
 ## Topics
-* [Simple Multiplication](00_multiply.py) (not yet updated)
+* [Simple Multiplication](00_multiply.py)
 * [Linear Regression](01_linear_regression.py) (not yet updated)
 * [Logistic Regression](02_logistic_regression.py) (not yet updated)
 * [Feedforward Neural Network (Multilayer Perceptron)](03_net.py) (not yet updated)
