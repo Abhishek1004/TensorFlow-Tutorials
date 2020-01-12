@@ -16,6 +16,13 @@ Introduction to deep learning based on Google's TensorFlow framework.  A fork of
 * [Save and restore net](10_save_restore_net.py) (not yet updated)
 * [Generative Adversarial Network](11_gan.py) (not yet updated)
 
+## Installation
+Install the requirements.
+
+```sh
+pip install -r requirements.txt
+```
+
 ## TODO
 A non binding roadmap for this fork.
 
