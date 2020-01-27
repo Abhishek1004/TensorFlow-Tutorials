@@ -9,7 +9,7 @@ Introduction to deep learning based on Google's TensorFlow framework.  A fork of
 * [Feedforward Neural Network (Multilayer Perceptron)](03_net.ipynb)
 * [Deep Feedforward Neural Network (Multilayer Perceptron with 2 Hidden Layers O.o)](04_modern_net.ipynb)
 * [Convolutional Neural Network](05_convolutional_net.ipynb)
-* [Denoising Autoencoder](06_autoencoder.ipynb) (not yet updated)
+* [Autoencoders](06_autoencoder.ipynb)
 * [Recurrent Neural Network (LSTM)](07_lstm.ipynb) (not yet updated)
 * [Word2vec](08_word2vec.ipynb) (not yet updated)
 * [TensorBoard](09_tensorboard.ipynb) (not yet updated)
