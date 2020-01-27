@@ -12,7 +12,7 @@ Introduction to deep learning based on Google's TensorFlow framework.  A fork of
 * [Autoencoders](06_autoencoder.ipynb)
 * [Recurrent Neural Network (LSTM)](07_lstm.ipynb)
 * [Word2vec](08_word2vec.ipynb)
-* [TensorBoard](09_tensorboard.ipynb) (not yet updated)
+* [TensorBoard](09_tensorboard.ipynb)
 * [Save and restore net](10_save_restore_net.ipynb) (not yet updated)
 * [Generative Adversarial Network](11_gan.ipynb) (not yet updated)
 
