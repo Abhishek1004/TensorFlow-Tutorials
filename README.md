@@ -14,7 +14,7 @@ Introduction to deep learning based on Google's TensorFlow framework.  A fork of
 * [Word2vec](08_word2vec.ipynb)
 * [TensorBoard](09_tensorboard.ipynb)
 * [Save and restore net](10_save_restore_net.ipynb)
-* [Generative Adversarial Network](11_gan.ipynb) (not yet updated)
+* [Generative Adversarial Network](11_gan.ipynb)
 
 ## Installation
 Install the requirements.
