@@ -4,7 +4,7 @@ Introduction to deep learning based on Google's TensorFlow framework.  A fork of
 
 ## Topics
 * [Simple Multiplication](00_multiply.py)
-* [Linear Regression](01_linear_regression.py) (not yet updated)
+* [Linear Regression](01_linear_regression.py)
 * [Logistic Regression](02_logistic_regression.py) (not yet updated)
 * [Feedforward Neural Network (Multilayer Perceptron)](03_net.py) (not yet updated)
 * [Deep Feedforward Neural Network (Multilayer Perceptron with 2 Hidden Layers O.o)](04_modern_net.py) (not yet updated)
